@@ -28,13 +28,10 @@ Dust 是一款运行在 macOS 平台上的《魔兽争霸 III》（Warcraft III�
 感谢以下项目及作者提供的技术支持与文档参考：
 * **w3gjs**
 * **flo**
-* **blue**
-* **nagger** (w3g_actions.txt 作者)
+* **blue & nagger** (w3g_actions.txt 作者)
 
-## 赞赏
+## 打赏
 
 如果你觉得这个工具对你有帮助，可以请我喝杯咖啡：
 [Buy me a coffee](https://buymeacoffee.com/chengting)
 
----
-MIT License
