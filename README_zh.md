@@ -34,6 +34,5 @@ Dust 是一款 魔兽争霸3 录像解析工具。
 
 如果你觉得这个工具对你有帮助，可以请我喝杯咖啡：
 [Buy me a coffee](https://buymeacoffee.com/chengting)
-<img width="1708" height="2560" alt="image" src="https://github.com/user-attachments/assets/0a62a54d-fa2e-4cff-99d8-6ce4d0ef193f" />
-
+[支付宝](IMG_1877.JPG)
 
