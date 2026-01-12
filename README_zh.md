@@ -17,7 +17,7 @@ Dust 是一款 魔兽争霸3 录像解析工具。
 
 由于本项目目前为个人分发版本，未在 Apple 开发者中心进行签名认证，安装后请按以下步骤操作以正常运行：
 
-1. 下载 `.dmg` 文件并将 **Dust** 拖入 **Applications**（应用程序）文件夹。
+1. [下载](https://github.com/ChanningZhang/Dust/releases) `.dmg` 文件并将 **Dust** 拖入 **Applications**（应用程序）文件夹。
 2. 首次启动时，如果系统提示“无法打开”或“开发者身份不明”，请点击“取消”。
 3. 打开 **系统设置 (System Settings)** -> **隐私与安全性 (Privacy & Security)**。
 4. 找到“安全性”栏目，在提示“已阻止使用 Dust”下方点击 **仍要打开 (Open Anyway)**。<img width="1430" height="996" alt="image" src="https://github.com/user-attachments/assets/641ecfa4-6906-41b1-9148-bfc4fa6a7caa" />
