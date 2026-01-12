@@ -1,9 +1,10 @@
-# Dust
-
-Dust is a Warcraft III replay parser built for macOS. It supports replay files from version 2.0.2 and above, with a focus on simplicity and accuracy.
 <p align="center">
   <a href="./README_zh.md">中文</a> | <b>English</b>
 </p>
+
+# Dust
+
+Dust is a Warcraft III replay parser built for macOS. It supports replay files from version 2.0.2 and above, with a focus on simplicity and accuracy.
 
 ## Features
 
