@@ -4,7 +4,7 @@
 
 # Dust
 
-Dust 是一款 魔兽争霸3 录像解析工具。
+Dust 是一款运行在 macOS 平台上的《魔兽争霸 III》（Warcraft III）录像解析工具。
 
 ## 功能特性
 
