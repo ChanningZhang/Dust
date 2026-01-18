@@ -4,7 +4,7 @@
 
 # Dust
 
-Dust is a Warcraft III replay parser built for macOS.
+Dust is a Warcraft III replay management tool for macOS.
 
 ## Features
 
