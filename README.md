@@ -27,7 +27,7 @@ As this is an individually distributed version without an Apple Developer certif
 
 ## Acknowledgments
 
-Special thanks to the following projects and authors for their contributions to the community:
+Special thanks to the following projects and authors:
 * **w3gjs**
 * **flo**
 * **blue & nagger** (Author of w3g_actions.txt)
