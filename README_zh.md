@@ -34,7 +34,7 @@ Dust 是一款运行在 macOS 平台上的《魔兽争霸 III》（Warcraft III�
 
 ## 打赏
 
-如果你觉得这个工具对你有帮助，可以请我喝杯咖啡：
+如果你觉得这个工具对你有帮助，可以给个star，或者请我喝杯咖啡：
 [Buy me a coffee](https://buymeacoffee.com/chengting)
 [支付宝](IMG_1877.JPG)
 
