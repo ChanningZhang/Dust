@@ -1,3 +1,5 @@
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/70473afb-e3bd-4c45-b9e5-bcd866df7bfc" />
+
 <p align="center">
   <b>中文</b> | <a href="./README.md">English</a>
 </p>
