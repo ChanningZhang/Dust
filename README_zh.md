@@ -11,10 +11,18 @@ Dust 是一款运行在 macOS 平台上的《魔兽争霸 III》录像管理工�
 ## 功能特性
 
 * **平台支持**：原生支持 macOS，支持中英文切换。
-* **版本兼容**：支持魔兽争霸 III 2.0.0+ 版本的录像文件。
+* **版本兼容**：支持魔兽争霸 III 1.36+ 版本的录像文件。
 * **丰富的数据**：支持大量单位的中英文和头像展示。
+
+   <img width="1377" height="1148" alt="image" src="https://github.com/user-attachments/assets/07068dd6-650d-4e6e-8979-109e13b03788" />
+   
 * **录像解析**：内置检测算法，更好的处理录像文件中的重复数据包，更好的应对技能重训场景。
+
+  <img width="287" height="520" alt="image" src="https://github.com/user-attachments/assets/644987f2-aa96-4dec-8de7-deaabc1376e3" />
+  
 * **地图下载**：识别录像文件中的地图并提供一键下载。
+
+  <img width="751" height="433" alt="image" src="https://github.com/user-attachments/assets/767b8443-6d4c-4cf1-96a8-a8fa6e4ac5c9" />
 
 ## 安装说明
 
@@ -30,9 +38,9 @@ Dust 是一款运行在 macOS 平台上的《魔兽争霸 III》录像管理工�
 ## 致谢
 
 感谢以下项目及作者提供的技术支持与文档参考：
-* **w3gjs**
-* **flo**
-* **blue & nagger** (w3g_actions.txt 作者)
+* [w3gjs](https://github.com/PBug90/w3gjs)
+* [flo](https://github.com/w3champions/flo)
+* [w3g_action](https://github.com/scopatz/w3g)
 
 ## 打赏
 
