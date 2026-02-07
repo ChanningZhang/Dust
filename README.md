@@ -47,5 +47,5 @@ Special thanks to the following projects and authors:
 
 ## Support
 
-If you find this tool helpful, please send a star or you can support the development here:
+If you find this tool helpful, please give me a star or you can support the development here:
 [Buy me a coffee](https://buymeacoffee.com/chengting)
