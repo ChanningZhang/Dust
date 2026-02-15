@@ -15,7 +15,7 @@ Dust 是一款运行在 macOS 平台上的《魔兽争霸 III》录像管理工�
 * **智能解析**：内置多轮检测算法，更好的处理录像文件中的重复数据包，更好的应对技能重训场景。
   > 剔除重复数据包是一道非常复杂的工序，并不是简单的用一个时间间隔就能够处理所有录像文件的。
 
-  <img width="287" height="520" alt="image" src="https://github.com/user-attachments/assets/644987f2-aa96-4dec-8de7-deaabc1376e3" />
+   <img width="204" height="568" alt="image" src="https://github.com/user-attachments/assets/17f2ffbb-c0ff-4113-8532-f2372384f3c7" />
 
 * **丰富的数据**：支持大量单位的中英文和头像展示。
 
