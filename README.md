@@ -16,7 +16,7 @@ Dust is a Warcraft III replay management tool for macOS.
 * **Smart Parsing**: Features a built-in detection algorithm to effectively handle duplicate packets and improve accuracy during "Hero Retraining" scenarios.
   > Deduplicating data packets is a highly complex process; a simple time interval is insufficient for handling all types of replay files.
   
-  <img width="287" height="520" alt="image" src="https://github.com/user-attachments/assets/644987f2-aa96-4dec-8de7-deaabc1376e3" />
+  <img width="204" height="568" alt="image" src="https://github.com/user-attachments/assets/17f2ffbb-c0ff-4113-8532-f2372384f3c7" />
 
 * **Rich Data**: Comprehensive support for campaign unit data, including portraits and bilingual (Chinese/English) display.
 
